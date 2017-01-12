@@ -40,7 +40,8 @@ import javax.media.jai.registry.RenderableRegistryMode;
 import javax.media.jai.registry.RenderedRegistryMode;
 
 import org.jaitools.imageutils.ImageLayout2;
-import org.jaitools.imageutils.ROIGeometry;
+//import org.jaitools.imageutils.ROIGeometry;
+import it.geosolutions.jaiext.vectorbin.utils.ROIGeometry;
 
 import com.sun.media.jai.util.PropertyGeneratorImpl;
 import com.vividsolutions.jts.geom.Geometry;

@@ -20,6 +20,7 @@ package it.geosolutions.jaiext.vectorbin;
 import static org.junit.Assert.assertEquals;
 
 import it.geosolutions.jaiext.testclasses.TestBase;
+import it.geosolutions.jaiext.vectorbin.utils.CoordinateSequence2D;
 
 import java.awt.Dimension;
 import java.awt.image.Raster;
@@ -33,7 +34,6 @@ import com.vividsolutions.jts.geom.Point;
 import com.vividsolutions.jts.geom.Polygon;
 import com.vividsolutions.jts.io.WKTReader;
 
-import org.jaitools.jts.CoordinateSequence2D;
 import org.junit.Before;
 import org.junit.Test;
 
